@@ -1,5 +1,5 @@
 :root {
-    background-color: #171615;
+    background-color: #318569;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -34,10 +34,10 @@ body {
     width: 60ch;
     max-width: 70vw;
     word-break: break-word;
-    background-color: #ffff93;
+    background-color: #226142;
     height: 100%;
     padding: 1ch 2ch 1ch 2ch;
-    border: #22ffff solid 0.75ch;
+    border: #7aab5c solid 0.75ch;
     margin: 4ch auto 4ch auto;
 }
 
